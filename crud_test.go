@@ -2,7 +2,8 @@ package dbcrud
 
 import (
 	"database/sql"
-	"nomoninternet/dbcrud/dbunit"
+
+	"github.com/nomoninternet/dbcrud/dbunit"
 
 	"testing"
 )
